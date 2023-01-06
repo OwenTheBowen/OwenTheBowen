@@ -6,7 +6,7 @@ I've not got very much to say.
 This is my profile I guess. [Visit my website.](http://ow.earthquake-site.com)
 I mostly do coding for fun. I do take requests from my friends when they need anything done, but I like coding things as a hobby.
 
-Currently working on `SAGE`, can't say what it is yet.
+I'm `Still Alive`, on the Amiga. [Hint Hint](https://www.youtube.com/watch?v=HdzImxI47W4).
 ___
 ##  Languages:
 I mostly just learn the ones that interest me. The only exception is `PHP`.
